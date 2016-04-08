@@ -1,0 +1,22 @@
+4 4
+
+x programmer
+$x
+table made of x
+X
+
+The Perl programmer doesn't have a table made of ash.
+The PHP programmer doesn't have a table made of yew or maple.
+The person whose table is made of maple is not Dakota.
+Of the PHP programmer and Dakota, one earns $66,000 per year and the other has the table made of balsawood.
+Either the ASP programmer or the PHP programmer has the table made of yew.
+Fiona doesn't have a table made of balsawood and does not earn a $66,000 salary.
+The ASP programmer is not Genesis.
+The Cold Fusion programmer is not Fiona or Genesis.
+The employee with the $85,000 salary has the table made of maple.
+The person whose table is made of ash earns less than Fiona.
+The PHP programmer is not Fiona.
+The person whose table is made of yew earns more than the person whose table is made of ash.
+The Perl programmer is Dakota.
+
+//Borrowed from Puzzle Baron: ID - E107QE
